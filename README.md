@@ -1,3 +1,3 @@
-# Senac-Campanha_Saúde-if-else
+# Senac - Campanha de Saúde
 
-## Senac Algoritmo e Programação - Campanha de Saúde / com if-else
+## Algoritmo para saber se a pessoa está apta para participar da Campanha de Saúde.
